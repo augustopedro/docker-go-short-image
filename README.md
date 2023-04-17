@@ -40,3 +40,8 @@ docker build -t auzusto/fullcycle .
 ```
 docker run auzusto/fullcycle
 ```
+
+# Link da imagem no Docker Hub:
+```
+https://hub.docker.com/repository/docker/auzusto/fullcycle/general
+```
